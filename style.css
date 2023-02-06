@@ -4,7 +4,7 @@ body {
     font-family: 'Aboreto', cursive;
     background-color: black;
     color: white;
-    background-image: url(retro.jpg);
+    background-image: url(parkour-purple.avif);
   background-size: 100%;
   background-position: top;
   background-repeat: no-repeat;
@@ -23,12 +23,25 @@ body {
     background-color: purple;
   }
   
-  header nav ul li {
-    list-style: none;
-  }
+ #header-title{
+height: 100px;
+float: inherit;
+ }
   
   main {
     padding: 20px;
+    position: fixed;
+  }
+
+  #menu{
+ 
+  position: fixed;
+  top: 30px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  
+
   }
   
   section h2 {
@@ -40,6 +53,8 @@ body {
     padding: 20px;
     text-align: center;
     background-color: purple;
+    opacity: .7;
+    
   }
   
   @media (max-width: 600px) {
@@ -64,13 +79,16 @@ float: inline-start;
     
       }
 
-      footer i {
+      i {
     
         color: white;
-        font-size: large;
+        font-size: xx-large;
         margin: 2%;
         padding: 3%;
         text-align: center;
+      }
+
+    
     
          
           
