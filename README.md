@@ -2,10 +2,13 @@
 
 Trace Berlin
 
+Our mission for this website is to bring together parkour enthusiasts from all over the Berlin to share their passion, skills and knowledge. We aim to create a welcoming and inclusive environment where anyone can come to meet new friends, explore new training spots, and improve their skills. Whether you're a seasoned pro or just starting out, we have something for everyone. 
 
 Features 
 
 Navigation Bar
+
+!(/assets/images/nav.PNG)
 
 A fixed position navigation bar takes the user to the About, Spots, Community, Sign up, and gallery sections on the site. The buttons are fully responsive and practical. 
 
